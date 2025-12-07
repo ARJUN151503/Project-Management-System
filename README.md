@@ -20,9 +20,8 @@ A modern, intuitive project management application built with React and Tailwind
 
 ## Installation
 
-\`\`\`bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/project-management-system.git
+git clone https://github.com/ARJUN151503/project-management-system.git
 
 # Navigate to directory
 cd project-management-system
@@ -32,7 +31,6 @@ npm install
 
 # Start development server
 npm start
-\`\`\`
 
 ## Usage
 
@@ -43,9 +41,7 @@ npm start
 
 ## Build for Production
 
-\`\`\`bash
 npm run build
-\`\`\`
 
 ## Contributing
 
