@@ -2,7 +2,7 @@
 
 A modern, intuitive project management application built with React and Tailwind CSS.
 
-##Pages
+## Pages
 
 <img width="1366" height="679" alt="image" src="https://github.com/user-attachments/assets/08970a7f-4b07-464a-93ad-8bcdeb8206a4" />
 
